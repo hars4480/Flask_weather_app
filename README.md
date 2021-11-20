@@ -1,4 +1,4 @@
-# Flask_weather_app
+# Flask weather app
 
 OpenWeatherMap API: https://openweathermap.org/api
 
